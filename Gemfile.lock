@@ -74,9 +74,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   moonwalk!
 
 BUNDLED WITH
-   2.2.21
+   2.7.1
